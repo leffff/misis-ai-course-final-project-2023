@@ -3,3 +3,5 @@ openpyxl
 rdkit
 torch
 torch_geometric
+transformers
+catboost
